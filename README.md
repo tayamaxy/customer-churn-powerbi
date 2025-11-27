@@ -307,8 +307,10 @@ Used on map visuals and line charts to reveal regional differences.
 
 ```text
 .
-├── Taisiia_Starchenko_pbi_case_study.pbix   
+├── Taisiia_Starchenko_pbi_case_study.pbix
+├── Taisiia_Starchenko_pbi_case_study.pdf  
 ├── README.md                                
 └── data/
     └── Databel - Data.csv                   
+
 
