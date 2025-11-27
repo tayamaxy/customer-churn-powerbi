@@ -1,3 +1,5 @@
+Since Power BI reports cannot be viewed interactively on GitHub, I have attached a PDF version of the report for quick preview. If you would like to explore the dashboards interactively, please download and open the .pbix file in Power BI Desktop.
+
 # Databel Customer Churn Analysis in Power BI
 
 This repository contains my Power BI solution for the **Databel customer churn** case study.  
@@ -309,3 +311,4 @@ Used on map visuals and line charts to reveal regional differences.
 ├── README.md                                
 └── data/
     └── Databel - Data.csv                   
+
